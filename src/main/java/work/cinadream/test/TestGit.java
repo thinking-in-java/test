@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("Hello");
         System.out.println("创建分支");
         System.out.println("发生冲突");
+        System.out.println("冲突位置");
     }
 }
